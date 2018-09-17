@@ -1,7 +1,6 @@
 Product Maintenance
 
-Copyright (c) [2017] [(enter your name here)]
-
+Copyright (c) [2017] [Markus Ooi Zong Xian]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
